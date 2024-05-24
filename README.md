@@ -35,6 +35,7 @@ I am a passionate software developer based in the Netherlands, specializing in f
 ## Contact
 
 -   LinkedIn: https://www.linkedin.com/in/dinand-quak-aa69932a0/
+-   Github: https://github.com/Dinandpower
 -   Email: d.coersen3@gmail.com
 
 ## Certifications
