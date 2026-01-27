@@ -155,7 +155,13 @@
 ---
 
 <div align="center">
-
-### ✨ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
+  
+![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+  
 </div>
+
+<!-- 
+<div align="center">
+### ✨ *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+</div> 
+-->
