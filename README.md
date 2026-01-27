@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=distervplays&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/disterisplayer?logo=twitter&style=for-the-badge)](https://twitter.com/disterisplayer)
+[![Twitter Follow](https://img.shields.io/twitter/follow/disterisplayer?logo=twitter&style=for-the-badge)](https://x.com/disterisplayer)
 
 </div>
 
@@ -26,10 +26,10 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/disterisplayer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinand-coersen-751893373)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/disterisplayer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinand-coersen-751893373)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/disterbeprogramming)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/dinandcoersen)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1825wV8YEg/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dinandcoersen)
 
 </div>
