@@ -18,7 +18,7 @@
 
 💬 Let's talk about **Machine Learning**, **Fullstack Development**, and **Emerging Tech**
 
-📫 Reach me on **[Instagram](https://instagram.com/dinandcoersen)**
+📫 Reach me on **[Instagram](https://instagram.com/thedutchdev)**
 
 ---
 
